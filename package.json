@@ -1,0 +1,11 @@
+{
+  "name": "phaser-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Erika Eggemeyer",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
